@@ -1,0 +1,58 @@
+ring,quadrant,label,active,moved,link,description
+ADOPT,Application Security,Burp Suite Professional,True,0,https://portswigger.net/burp,Web vulnerability scanner
+ADOPT,Application Security,OWASP ZAP,True,0,https://www.zaproxy.org/,Open-source web application security scanner
+ADOPT,Security Operations & Response,Nessus,True,0,https://www.tenable.com/products/nessus,Vulnerability scanner
+TRIAL,Application Security,Acunetix,True,0,https://www.acunetix.com/,Web vulnerability scanner
+ADOPT,Application Security,Checkmarx SAST,True,0,https://www.checkmarx.com/products/static-application-security-testing-sast/,Static Application Security Testing
+ADOPT,Application Security,SonarQube,True,0,https://www.sonarqube.org/,Code quality and security analysis
+TRIAL,Application Security,Netsparker,True,0,https://www.invicti.com/,Web vulnerability scanner
+ADOPT,Application Security,Snyk,True,0,https://snyk.io/,Developer security platform
+ASSESS,Application Security,Black Duck,True,0,https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis-sca.html,Software Composition Analysis
+TRIAL,Application Security,Mend SCA,True,0,https://www.mend.io/,Software Composition Analysis
+ADOPT,Application Security,Veracode,True,0,https://www.veracode.com/,Application security testing
+HOLD,Application Security,WhiteSource,True,0,https://www.whitesourcesoftware.com/,Software Composition Analysis
+ADOPT,Application Security,Dependabot,True,0,https://docs.github.com/github/managing-security-vulnerabilities/about-dependabot-alerts,Dependency vulnerability scanning
+TRIAL,Application Security,Renovate,True,0,https://www.mend.io/free-developer-tools/renovate/,Dependency update automation
+ADOPT,Infrastructure & Cloud Security,Aqua Security,True,0,https://www.aquasec.com/,Container security platform
+TRIAL,Infrastructure & Cloud Security,Sysdig,True,0,https://sysdig.com/,Container and cloud security
+ASSESS,Infrastructure & Cloud Security,Clair,True,0,https://quay.io/repository/coreos/clair,Vulnerability static analysis for containers
+ADOPT,Infrastructure & Cloud Security,Falco,True,0,https://falco.org/,Container runtime security
+TRIAL,Infrastructure & Cloud Security,Grype,True,0,https://github.com/anchore/grype,Vulnerability scanner for container images and filesystems
+ADOPT,Infrastructure & Cloud Security,Trivy,True,0,https://aquasec.com/products/trivy/,Container image and filesystem vulnerability scanner
+ADOPT,Infrastructure & Cloud Security,Open policy Agent (OPA),True,0,https://www.openpolicyagent.org/,Policy engine for cloud native environments
+TRIAL,Application Security,Chaos Engineering,True,0,https://principlesofchaos.org/,Experimentation on a system in order to build confidence in the system's capability to withstand turbulent conditions in production.
+ADOPT,Application Security,Threat Modeling,True,0,https://owasp.org/www-community/Threat_Modeling,Structured approach to identify potential threats
+ADOPT,Application Security,Security Champions,True,0,https://owasp.org/www-community/Security_Champions,Advocates for security within development teams
+ADOPT,Application Security,Shift Left Security,True,0,https://www.synopsys.com/glossary/what-is-shift-left.html,Moving security earlier in the development lifecycle
+TRIAL,Application Security,Security as Code,True,0,https://www.cloudbees.com/blog/what-is-security-as-code,Managing security policies and configurations through code
+ASSESS,"Governance, Risk & Compliance",Zero Trust Architecture,True,0,https://www.microsoft.com/en-us/security/business/zero-trust,Security model based on strict identity verification
+ADOPT,Application Security,DevSecOps,True,0,https://www.ibm.com/topics/devsecops,Integrating security into DevOps practices
+ADOPT,Infrastructure & Cloud Security,AWS,True,0,https://aws.amazon.com/,Cloud computing platform
+ADOPT,Infrastructure & Cloud Security,Azure,True,0,https://azure.microsoft.com/,Cloud computing platform
+ADOPT,Infrastructure & Cloud Security,Google Cloud Platform (GCP),True,0,https://cloud.google.com/,Cloud computing platform
+ADOPT,Infrastructure & Cloud Security,Kubernetes,True,0,https://kubernetes.io/,Container orchestration
+ADOPT,Infrastructure & Cloud Security,Docker,True,0,https://www.docker.com/,Containerization platform
+TRIAL,Infrastructure & Cloud Security,OpenShift,True,0,https://www.openshift.com/,Container platform
+ADOPT,Infrastructure & Cloud Security,HashiCorp Vault,True,0,https://www.vaultproject.io/,Secrets management
+ADOPT,Infrastructure & Cloud Security,HashiCorp Terraform,True,0,https://www.terraform.io/,Infrastructure as Code
+ADOPT,Infrastructure & Cloud Security,Ansible,True,0,https://www.ansible.com/,Automation engine
+ADOPT,Infrastructure & Cloud Security,GitLab CI/CD,True,0,https://docs.gitlab.com/ee/ci/,Integrated CI/CD platform
+ADOPT,Infrastructure & Cloud Security,GitHub Actions,True,0,https://github.com/features/actions,CI/CD and automation platform
+HOLD,Infrastructure & Cloud Security,Jenkins,True,0,https://www.jenkins.io/,Automation server
+ADOPT,Application Security,Python,True,0,https://www.python.org/,Programming language
+ADOPT,Application Security,Java,True,0,https://www.java.com/,Programming language
+TRIAL,Application Security,Go,True,0,https://go.dev/,Programming language
+ADOPT,Application Security,Node.js,True,0,https://nodejs.org/,JavaScript runtime
+ADOPT,Application Security,React,True,0,https://react.dev/,JavaScript library for UIs
+ADOPT,Application Security,Angular,True,0,https://angular.io/,Web application framework
+TRIAL,Application Security,Vue.js,True,0,https://vuejs.org/,Progressive JavaScript framework
+ADOPT,Application Security,Spring Boot,True,0,https://spring.io/projects/spring-boot,Java framework
+ADOPT,Application Security,Django,True,0,https://www.djangoproject.com/,Python web framework
+HOLD,Application Security,Ruby on Rails,True,0,https://rubyonrails.org/,Web application framework
+TRIAL,Application Security,GraphQL,True,0,https://graphql.org/,Query language for APIs
+ADOPT,Application Security,RESTful APIs,True,0,https://restfulapi.net/,Architectural style for web services
+HOLD,Application Security,SOAP,True,0,https://www.w3.org/TR/soap/,Messaging protocol
+ADOPT,Infrastructure & Cloud Security,Kafka,True,0,https://kafka.apache.org/,Distributed streaming platform
+TRIAL,Infrastructure & Cloud Security,RabbitMQ,True,0,https://www.rabbitmq.com/,Message-broker software
+ADOPT,Infrastructure & Cloud Security,SQL,True,0,https://en.wikipedia.org/wiki/SQL,Structured Query Language
+ADOPT,Infrastructure & Cloud Security,NoSQL,True,0,https://en.wikipedia.org/wiki/NoSQL,Non-relational databases
