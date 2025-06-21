@@ -1,0 +1,40 @@
+{
+  "entries": [
+    {
+      "label": "Burp Suite Professional",
+      "quadrant": 0,
+      "ring": 0,
+      "active": true,
+      "moved": 0,
+      "link": "https://portswigger.net/burp",
+      "description": "Web vulnerability scanner"
+    },
+    {
+      "label": "OWASP ZAP",
+      "quadrant": 0,
+      "ring": 0,
+      "active": true,
+      "moved": 0,
+      "link": "https://www.zaproxy.org/",
+      "description": "Open-source web application security scanner"
+    },
+    {
+      "label": "Nessus",
+      "quadrant": 2,
+      "ring": 0,
+      "active": true,
+      "moved": 0,
+      "link": "https://www.tenable.com/products/nessus",
+      "description": "Vulnerability scanner"
+    },
+    {
+      "label": "Acunetix",
+      "quadrant": 0,
+      "ring": 1,
+      "active": true,
+      "moved": 0,
+      "link": "https://www.acunetix.com/",
+      "description": "Web vulnerability scanner"
+    }
+  ]
+}
