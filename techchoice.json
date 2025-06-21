@@ -1,0 +1,545 @@
+{
+  "quadrants": [
+    {
+      "name": "Application Security"
+    },
+    {
+      "name": "Infrastructure & Cloud Security"
+    },
+    {
+      "name": "Security Operations & Response"
+    },
+    {
+      "name": "Governance, Risk & Compliance"
+    }
+  ],
+  "rings": [
+    {
+      "name": "ADOPT"
+    },
+    {
+      "name": "TRIAL"
+    },
+    {
+      "name": "ASSESS"
+    },
+    {
+      "name": "HOLD"
+    }
+  ],
+  "entries": [
+    {
+      "quadrant": "Application Security",
+      "ring": "ADOPT",
+      "label": "Burp Suite Professional",
+      "active": true,
+      "moved": 0,
+      "link": "https://portswigger.net/burp",
+      "description": "Web vulnerability scanner"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "ADOPT",
+      "label": "OWASP ZAP",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.zaproxy.org/",
+      "description": "Open-source web application security scanner"
+    },
+    {
+      "quadrant": "Security Operations & Response",
+      "ring": "ADOPT",
+      "label": "Nessus",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.tenable.com/products/nessus",
+      "description": "Vulnerability scanner"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "TRIAL",
+      "label": "Acunetix",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.acunetix.com/",
+      "description": "Web vulnerability scanner"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "ADOPT",
+      "label": "Checkmarx SAST",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.checkmarx.com/products/static-application-security-testing-sast/",
+      "description": "Static Application Security Testing"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "ADOPT",
+      "label": "SonarQube",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.sonarqube.org/",
+      "description": "Code quality and security analysis"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "TRIAL",
+      "label": "Netsparker",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.invicti.com/",
+      "description": "Web vulnerability scanner"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "ADOPT",
+      "label": "Snyk",
+      "active": true,
+      "moved": 0,
+      "link": "https://snyk.io/",
+      "description": "Developer security platform"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "ASSESS",
+      "label": "Black Duck",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis-sca.html",
+      "description": "Software Composition Analysis"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "TRIAL",
+      "label": "Mend SCA",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.mend.io/",
+      "description": "Software Composition Analysis"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "ADOPT",
+      "label": "Veracode",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.veracode.com/",
+      "description": "Application security testing"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "HOLD",
+      "label": "WhiteSource",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.whitesourcesoftware.com/",
+      "description": "Software Composition Analysis"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "ADOPT",
+      "label": "Dependabot",
+      "active": true,
+      "moved": 0,
+      "link": "https://docs.github.com/github/managing-security-vulnerabilities/about-dependabot-alerts",
+      "description": "Dependency vulnerability scanning"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "TRIAL",
+      "label": "Renovate",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.mend.io/free-developer-tools/renovate/",
+      "description": "Dependency update automation"
+    },
+    {
+      "quadrant": "Infrastructure & Cloud Security",
+      "ring": "ADOPT",
+      "label": "Aqua Security",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.aquasec.com/",
+      "description": "Container security platform"
+    },
+    {
+      "quadrant": "Infrastructure & Cloud Security",
+      "ring": "TRIAL",
+      "label": "Sysdig",
+      "active": true,
+      "moved": 0,
+      "link": "https://sysdig.com/",
+      "description": "Container and cloud security"
+    },
+    {
+      "quadrant": "Infrastructure & Cloud Security",
+      "ring": "ASSESS",
+      "label": "Clair",
+      "active": true,
+      "moved": 0,
+      "link": "https://quay.io/repository/coreos/clair",
+      "description": "Vulnerability static analysis for containers"
+    },
+    {
+      "quadrant": "Infrastructure & Cloud Security",
+      "ring": "ADOPT",
+      "label": "Falco",
+      "active": true,
+      "moved": 0,
+      "link": "https://falco.org/",
+      "description": "Container runtime security"
+    },
+    {
+      "quadrant": "Infrastructure & Cloud Security",
+      "ring": "TRIAL",
+      "label": "Grype",
+      "active": true,
+      "moved": 0,
+      "link": "https://github.com/anchore/grype",
+      "description": "Vulnerability scanner for container images and filesystems"
+    },
+    {
+      "quadrant": "Infrastructure & Cloud Security",
+      "ring": "ADOPT",
+      "label": "Trivy",
+      "active": true,
+      "moved": 0,
+      "link": "https://aquasec.com/products/trivy/",
+      "description": "Container image and filesystem vulnerability scanner"
+    },
+    {
+      "quadrant": "Infrastructure & Cloud Security",
+      "ring": "ADOPT",
+      "label": "Open policy Agent (OPA)",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.openpolicyagent.org/",
+      "description": "Policy engine for cloud native environments"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "TRIAL",
+      "label": "Chaos Engineering",
+      "active": true,
+      "moved": 0,
+      "link": "https://principlesofchaos.org/",
+      "description": "Experimentation on a system in order to build confidence in the system's capability to withstand turbulent conditions in production."
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "ADOPT",
+      "label": "Threat Modeling",
+      "active": true,
+      "moved": 0,
+      "link": "https://owasp.org/www-community/Threat_Modeling",
+      "description": "Structured approach to identify potential threats"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "ADOPT",
+      "label": "Security Champions",
+      "active": true,
+      "moved": 0,
+      "link": "https://owasp.org/www-community/Security_Champions",
+      "description": "Advocates for security within development teams"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "ADOPT",
+      "label": "Shift Left Security",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.synopsys.com/glossary/what-is-shift-left.html",
+      "description": "Moving security earlier in the development lifecycle"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "TRIAL",
+      "label": "Security as Code",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.cloudbees.com/blog/what-is-security-as-code",
+      "description": "Managing security policies and configurations through code"
+    },
+    {
+      "quadrant": "Governance, Risk & Compliance",
+      "ring": "ASSESS",
+      "label": "Zero Trust Architecture",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.microsoft.com/en-us/security/business/zero-trust",
+      "description": "Security model based on strict identity verification"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "ADOPT",
+      "label": "DevSecOps",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.ibm.com/topics/devsecops",
+      "description": "Integrating security into DevOps practices"
+    },
+    {
+      "quadrant": "Infrastructure & Cloud Security",
+      "ring": "ADOPT",
+      "label": "AWS",
+      "active": true,
+      "moved": 0,
+      "link": "https://aws.amazon.com/",
+      "description": "Cloud computing platform"
+    },
+    {
+      "quadrant": "Infrastructure & Cloud Security",
+      "ring": "ADOPT",
+      "label": "Azure",
+      "active": true,
+      "moved": 0,
+      "link": "https://azure.microsoft.com/",
+      "description": "Cloud computing platform"
+    },
+    {
+      "quadrant": "Infrastructure & Cloud Security",
+      "ring": "ADOPT",
+      "label": "Google Cloud Platform (GCP)",
+      "active": true,
+      "moved": 0,
+      "link": "https://cloud.google.com/",
+      "description": "Cloud computing platform"
+    },
+    {
+      "quadrant": "Infrastructure & Cloud Security",
+      "ring": "ADOPT",
+      "label": "Kubernetes",
+      "active": true,
+      "moved": 0,
+      "link": "https://kubernetes.io/",
+      "description": "Container orchestration"
+    },
+    {
+      "quadrant": "Infrastructure & Cloud Security",
+      "ring": "ADOPT",
+      "label": "Docker",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.docker.com/",
+      "description": "Containerization platform"
+    },
+    {
+      "quadrant": "Infrastructure & Cloud Security",
+      "ring": "TRIAL",
+      "label": "OpenShift",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.openshift.com/",
+      "description": "Container platform"
+    },
+    {
+      "quadrant": "Infrastructure & Cloud Security",
+      "ring": "ADOPT",
+      "label": "HashiCorp Vault",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.vaultproject.io/",
+      "description": "Secrets management"
+    },
+    {
+      "quadrant": "Infrastructure & Cloud Security",
+      "ring": "ADOPT",
+      "label": "HashiCorp Terraform",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.terraform.io/",
+      "description": "Infrastructure as Code"
+    },
+    {
+      "quadrant": "Infrastructure & Cloud Security",
+      "ring": "ADOPT",
+      "label": "Ansible",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.ansible.com/",
+      "description": "Automation engine"
+    },
+    {
+      "quadrant": "Infrastructure & Cloud Security",
+      "ring": "ADOPT",
+      "label": "GitLab CI/CD",
+      "active": true,
+      "moved": 0,
+      "link": "https://docs.gitlab.com/ee/ci/",
+      "description": "Integrated CI/CD platform"
+    },
+    {
+      "quadrant": "Infrastructure & Cloud Security",
+      "ring": "ADOPT",
+      "label": "GitHub Actions",
+      "active": true,
+      "moved": 0,
+      "link": "https://github.com/features/actions",
+      "description": "CI/CD and automation platform"
+    },
+    {
+      "quadrant": "Infrastructure & Cloud Security",
+      "ring": "HOLD",
+      "label": "Jenkins",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.jenkins.io/",
+      "description": "Automation server"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "ADOPT",
+      "label": "Python",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.python.org/",
+      "description": "Programming language"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "ADOPT",
+      "label": "Java",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.java.com/",
+      "description": "Programming language"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "TRIAL",
+      "label": "Go",
+      "active": true,
+      "moved": 0,
+      "link": "https://go.dev/",
+      "description": "Programming language"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "ADOPT",
+      "label": "Node.js",
+      "active": true,
+      "moved": 0,
+      "link": "https://nodejs.org/",
+      "description": "JavaScript runtime"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "ADOPT",
+      "label": "React",
+      "active": true,
+      "moved": 0,
+      "link": "https://react.dev/",
+      "description": "JavaScript library for UIs"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "ADOPT",
+      "label": "Angular",
+      "active": true,
+      "moved": 0,
+      "link": "https://angular.io/",
+      "description": "Web application framework"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "TRIAL",
+      "label": "Vue.js",
+      "active": true,
+      "moved": 0,
+      "link": "https://vuejs.org/",
+      "description": "Progressive JavaScript framework"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "ADOPT",
+      "label": "Spring Boot",
+      "active": true,
+      "moved": 0,
+      "link": "https://spring.io/projects/spring-boot",
+      "description": "Java framework"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "ADOPT",
+      "label": "Django",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.djangoproject.com/",
+      "description": "Python web framework"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "HOLD",
+      "label": "Ruby on Rails",
+      "active": true,
+      "moved": 0,
+      "link": "https://rubyonrails.org/",
+      "description": "Web application framework"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "TRIAL",
+      "label": "GraphQL",
+      "active": true,
+      "moved": 0,
+      "link": "https://graphql.org/",
+      "description": "Query language for APIs"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "ADOPT",
+      "label": "RESTful APIs",
+      "active": true,
+      "moved": 0,
+      "link": "https://restfulapi.net/",
+      "description": "Architectural style for web services"
+    },
+    {
+      "quadrant": "Application Security",
+      "ring": "HOLD",
+      "label": "SOAP",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.w3.org/TR/soap/",
+      "description": "Messaging protocol"
+    },
+    {
+      "quadrant": "Infrastructure & Cloud Security",
+      "ring": "ADOPT",
+      "label": "Kafka",
+      "active": true,
+      "moved": 0,
+      "link": "https://kafka.apache.org/",
+      "description": "Distributed streaming platform"
+    },
+    {
+      "quadrant": "Infrastructure & Cloud Security",
+      "ring": "TRIAL",
+      "label": "RabbitMQ",
+      "active": true,
+      "moved": 0,
+      "link": "https://www.rabbitmq.com/",
+      "description": "Message-broker software"
+    },
+    {
+      "quadrant": "Infrastructure & Cloud Security",
+      "ring": "ADOPT",
+      "label": "SQL",
+      "active": true,
+      "moved": 0,
+      "link": "https://en.wikipedia.org/wiki/SQL",
+      "description": "Structured Query Language"
+    },
+    {
+      "quadrant": "Infrastructure & Cloud Security",
+      "ring": "ADOPT",
+      "label": "NoSQL",
+      "active": true,
+      "moved": 0,
+      "link": "https://en.wikipedia.org/wiki/NoSQL",
+      "description": "Non-relational databases"
+    }
+  ]
+}
